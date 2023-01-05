@@ -15,17 +15,19 @@ on the Hugo Theme Showcase.
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Table of Contents](#table-of-contents)
-- [Getting Started](#getting-started)
-	- [Non-Development](#non-development)
-	- [Development](#development)
-	- [exampleSite](#examplesite)
-	- [config.toml](#configtoml)
-	- [Staticman](#staticman)
-	- [Hugo's Built-In Server](#hugos-built-in-server)
-- [Shortcodes](#shortcodes)
-- [About the Author](#about-the-author)
-- [License](#license)
+- [Hugo Future Imperfect Slim](#hugo-future-imperfect-slim)
+	- [Table of Contents](#table-of-contents)
+	- [Getting Started](#getting-started)
+		- [Non-Development](#non-development)
+		- [Development](#development)
+		- [exampleSite](#examplesite)
+		- [config.toml](#configtoml)
+		- [Staticman](#staticman)
+		- [Custom JavaScript and CSS](#custom-javascript-and-css)
+		- [Hugo's Built-In Server](#hugos-built-in-server)
+	- [Shortcodes](#shortcodes)
+	- [About the Author](#about-the-author)
+	- [License](#license)
 
 <!-- /TOC -->
 
